@@ -2,16 +2,16 @@
 Aulas guiadas pelo professor Lucas para entendimento da materia
 
 Tags:
-Tabela <table>
-Linha da tabela <tr>
-Colunas da tabela <td>
-Link: <a>
-Imagem: <img>
-<b>Negrito</b>
-<u>Sublinhado</u>
-<i>Itálico</i>
-<sup>Sobreescrito</sup>
-<sub>Subescrito</sub>
+Tabela '<table>'
+Linha da tabela '<tr>'
+Colunas da tabela '<td>'
+Link: '<a>'
+Imagem: '<img>'
+'<b>Negrito</b>'
+'<u>Sublinhado</u>'
+'<i>Itálico</i>'
+'<sup>Sobreescrito</sup>'
+'<sub>Subescrito</sub>'
 
 Link: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/b
 
