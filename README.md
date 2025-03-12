@@ -28,3 +28,9 @@ Documentações oficiais
 https://www.w3.org/TR/2011/WD-html5-20110405/
 - WHATWG
 https://html.spec.whatwg.org/multipage/
+
+---
+
+Artigo sobre DOM: https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction
+
+Lista de eventos HTML: https://www.w3schools.com/jsref/dom_obj_event.asp
